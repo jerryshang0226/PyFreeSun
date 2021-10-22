@@ -13,6 +13,6 @@ logging_db = "Y"
 db_host = '192.168.56.7'
 # db_host = '192.168.20.179'
 db_user = 'yxtcdb'
-db_passwd = 'Yxtc@htfz5d'
+db_passwd = 'abcecace1234234!@#!$cdf'
 db_name = 'operation'
 db_charset = 'utf8'
